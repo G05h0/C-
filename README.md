@@ -1,2 +1,2 @@
 # C#
-I will commit my progress in C# in this repository. 
+I will commit my progress from the beginning in C#. 
